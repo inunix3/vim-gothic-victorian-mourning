@@ -3,7 +3,7 @@
 
 " GVim or TrueColor terminal is required.
 " Add this file to .vim/colors, and this to your .vimrc:
-"   colorscheme gothic_victorian_mourning
+"   color gothic_victorian_mourning
 
 set background=dark
 

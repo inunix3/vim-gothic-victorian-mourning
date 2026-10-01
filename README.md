@@ -16,6 +16,13 @@ Install via your plugin manager the same way as you would install any other
 colorscheme, or manually by copying `colors` and `autoload` folders into
 your .vim/ directory.
 
+Then add this to your .vimrc:
+
+```vim
+color gothic_victorian_mourning
+let g:airline_theme='gothic_victorian_mourning' " if you use airline
+```
+
 ## License
 
 This extension is licensed under [MIT License](LICENSE.txt).
